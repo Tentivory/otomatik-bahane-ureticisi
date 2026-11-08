@@ -1,0 +1,3 @@
+# Aslında hiçbir şey gerekmiyor
+# Ama olsun diye koyduk
+# random ve time zaten standart kütüphane
